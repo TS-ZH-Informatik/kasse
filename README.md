@@ -1,7 +1,6 @@
 kasse
 =====
 
-kasse Program in java.
 Essentially this representes some basic methods to build a register with the given requirements of our teacher at school.
 
 How to get this repo running on your machine:
